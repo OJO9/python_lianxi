@@ -1,4 +1,5 @@
 #-*- coding: utf-8 -*-
+#3	交换两个变量的值
 a:str = 'e'
 b:str = 'mmm'
 
